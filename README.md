@@ -13,7 +13,7 @@ Size of training set: 10683 records
 
 Size of test set: 2671 records
 
-## FEATURES:
+## Features:
 Airline: The name of the airline.
 
 Date_of_Journey: The date of the journey
