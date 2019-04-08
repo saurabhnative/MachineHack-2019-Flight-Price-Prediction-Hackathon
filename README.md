@@ -1,7 +1,5 @@
-# MachineHack-2019-Flight-Price-Prediction-Hackathon
 ![title](flightprice.jpg)
-
-# AmExpert-2018-Machine-Learning-Hackathon (Analytics Vidhya)
+# MachineHack-2019-Flight-Price-Prediction-Hackathon
 
 ## Introduction: 
 
