@@ -35,7 +35,7 @@ Total_Stops: Total stops between the source and destination.
 Additional_Info: Additional information about the flight
 
 Price: The price of the ticket
-A Binary Classification Problem for user ad-clicks, in which data pertaining to User Demographics, User actions and Historical logs of the user are provided for some Product id's.
+A regression problem in which duration, source, destination, dates of flight and route are provided
 
 ## Leaderboard
 * **Public LB : 76th Rank**
